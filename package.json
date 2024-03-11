@@ -1,0 +1,23 @@
+{
+  "name": "mwizerwas-calc-2",
+  "version": "2.0.0",
+  "description": "Learning how to use npm and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stanley",
+    "rca",
+    "2024",
+    "calculator",
+    "maths"
+  ],
+  "author": "stanley m",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  }
+}
